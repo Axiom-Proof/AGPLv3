@@ -5,7 +5,7 @@ data: `14.05.2022`
 The goal is that the teacher share different videos to all students in the room, then start to play it at the same time.
 
 <p align="center">
-    <img src="public/images/experiment.png" />
+    <img src="../public/images/experiment.png" />
 </p>
 
 ---
