@@ -1,14 +1,14 @@
-## Change Logs
+# <p align="center">Change logs</p>
 
-data: `14.05.2022`
-
-The goal is that the teacher share different videos to all students in the room, then start to play it at the same time.
+<p align="center">The goal is that the teacher share different videos to all students in the room, then start to play it at the same time.</p>
 
 <p align="center">
     <img src="../public/images/experiment.png" />
 </p>
 
 ---
+
+Date: `14.05.2022`
 
 -   Customizations:
 
