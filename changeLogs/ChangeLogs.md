@@ -2,6 +2,8 @@
 
 <p align="center">The goal is that the teacher share different videos to all students in the room, then start to play it at the same time.</p>
 
+---
+
 <p align="center">
     <img src="../public/images/experiment.png" />
 </p>
