@@ -1797,6 +1797,7 @@ class RoomClient {
                     msgs = chatMsger.firstChild;
                 }
                 this.chatMessages = [];
+                this.sound('delete');
             }
         });
     }

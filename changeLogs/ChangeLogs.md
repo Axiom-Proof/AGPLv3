@@ -26,5 +26,7 @@ Date: `14.05.2022`
     -   Added possibility to join room without webcam - audio or both.
     -   Improved the functionality share Room.
     -   Update dependencies to latest version.
+    -   Increase the whiteboard size.
+    -   Add delete sound effect.
 
 ---
