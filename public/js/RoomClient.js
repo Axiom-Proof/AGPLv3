@@ -756,17 +756,17 @@ class RoomClient {
             {
                 rid: 'r0',
                 maxBitrate: 100000,
-                // scalabilityMode: 'L3T3',
+                scalabilityMode: 'L3T3',
             },
             {
                 rid: 'r1',
                 maxBitrate: 300000,
-                // scalabilityMode: 'L3T3',
+                scalabilityMode: 'L3T3',
             },
             {
                 rid: 'r2',
                 maxBitrate: 900000,
-                // scalabilityMode: 'L3T3',
+                scalabilityMode: 'L3T3',
             },
         ];
     }
